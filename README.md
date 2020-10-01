@@ -28,7 +28,7 @@ $ cd cart
 $ yarn install
 ```
 
-### Iniciando a API Fake (localhost:3000)
+### Iniciando a API Fake (localhost:3333)
 ```shell
 $ yarn json-server acima-10-reais.json -p 3333 -w
 ```
